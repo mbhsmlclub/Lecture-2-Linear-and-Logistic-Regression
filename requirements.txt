@@ -1,0 +1,2 @@
+statsmodels==0.12.2
+ipywidgets==7.6.5
